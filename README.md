@@ -1,5 +1,4 @@
-### 📂 Repository Structure
-# <img src="./leaderize-logo.png" width="200" align="right"> Leaderize Resources```text
+
 Leaderize-Resources/
 ├── resources/              # Main guides and playbooks
 │   └── executive-rag-playbook.pdf
