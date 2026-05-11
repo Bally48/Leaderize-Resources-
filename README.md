@@ -1,14 +1,6 @@
-
-Leaderize-Resources/
-├── resources/              # Main guides and playbooks
+📂 Repository StructureA map of the assets available in this repository:Leaderize-Resources/
+├── resources/           # Main guides and playbooks
 │   └── executive-rag-playbook.pdf
-├── documents/              # Legal and protocol docs
-└── README.md               # Dashboard and navigation
-```
-### 🛠️ Quick Access Resource Table
-
-| Resource Name | Type | Description |
-| :--- | :--- | :--- |
-| [🚀 Executive RAG Playbook](./executive-rag-playbook.pdf) | 📕 PDF | Strategic guide for implementing RAG architectures. |
-| [🤖 Claude Setup Playbook](./Leaderize%20-Claude-Setup-Playbook_1.pdf) | 📕 PDF | Step-by-step framework for leadership AI configuration. |
-| [🧠 Prompting Frameworks](./ai-prompting-frameworks.pdf) | 📕 PDF | Essential prompting structures for executive workflows. |
+├── documents/           # Legal and protocol docs
+└── README.md            # Dashboard and navigation
+🛠️ Quick Access Resource TableClick the links below to open the playbooks directly in your browser.Resource NameTypeDescription🚀 Executive RAG Playbook📕 PDFStrategic guide for implementing RAG architectures.🤖 Claude Setup Playbook📕 PDFStep-by-step framework for leadership AI configuration.🧠 Prompting Frameworks📕 PDFEssential prompting structuDo I just copy it yeah I see that it's therews.
