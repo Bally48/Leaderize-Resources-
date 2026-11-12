@@ -11,10 +11,11 @@ A map of the assets available in this repository:
 
 ```text
 Leaderize-Resources/
-├── resources/           # Main guides and playbooks
-│   └── executive-rag-playbook.pdf
-├── documents/           # Legal and protocol docs
-└── README.md            # Dashboard and navigation
+├── Leaderize -Claude-Setup-Playbook_1.pdf                      # Claude setup playbook
+├── executive-rag-playbook.pdf                                  # Executive RAG playbook
+├── Docs:AI-Prompting-Frameworks-for-Leadership-Coaches (1).pdf # Prompting frameworks
+├── leaderize-logo.png.jpg                                      # Logo
+└── README.md                                                   # Dashboard and navigation
 ```
 ### 🛠️ Quick Access Resource Table
 
@@ -22,4 +23,4 @@ Leaderize-Resources/
 | :--- | :--- | :--- |
 | [🚀 Executive RAG Playbook](./executive-rag-playbook.pdf) | 📕 PDF | Strategic guide for implementing RAG architectures. |
 | [🤖 Claude Setup Playbook](./Leaderize%20-Claude-Setup-Playbook_1.pdf) | 📕 PDF | Step-by-step framework for leadership AI configuration. |
-| [🧠 Prompting Frameworks](./Docs:AI-Prompting-Frameworks-for-Leaders...) | 📕 PDF | Essential prompting structures for executive workflows. |
+| [🧠 Prompting Frameworks](./Docs%3AAI-Prompting-Frameworks-for-Leadership-Coaches%20(1).pdf) | 📕 PDF | Essential prompting structures for executive workflows. |
